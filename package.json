@@ -1,0 +1,16 @@
+{
+  "name": "watch-missing-modules-webpack4-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GoodForOneFare/watch-missing-modules-webpack4-example.git",
+  "author": "Gord Pearson <gord.pearson@shopify.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "react-dev-utils": "^6.0.0-next.b2fd8db8",
+    "webpack": "4",
+    "webpack-cli": "^2.0.13"
+  }
+}
