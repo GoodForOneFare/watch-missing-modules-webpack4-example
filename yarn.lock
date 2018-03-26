@@ -3643,9 +3643,9 @@ rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-dev-utils@^6.0.0-next.b2fd8db8:
-  version "6.0.0-next.b2fd8db8"
-  resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-6.0.0-next.b2fd8db8.tgz#f9eaf58131eaaaebbc966f3c0e881e021cb143eb"
+"react-dev-utils@npm:@goodforonefare/react-dev-utils@5.0.1-beta.1":
+  version "5.0.1-beta.1"
+  resolved "https://registry.yarnpkg.com/@goodforonefare/react-dev-utils/-/react-dev-utils-5.0.1-beta.1.tgz#d14b48a427117d379a5e4e779f0dd4a111f51956"
   dependencies:
     "@babel/code-frame" "7.0.0-beta.42"
     address "1.0.3"
@@ -3663,16 +3663,16 @@ react-dev-utils@^6.0.0-next.b2fd8db8:
     is-root "1.0.0"
     opn "5.2.0"
     pkg-up "2.0.0"
-    react-error-overlay "5.0.0-next.b2fd8db8"
+    react-error-overlay "^4.0.0"
     recursive-readdir "2.2.1"
     shell-quote "1.6.1"
     sockjs-client "1.1.4"
     strip-ansi "4.0.0"
     text-table "0.2.0"
 
-react-error-overlay@5.0.0-next.b2fd8db8:
-  version "5.0.0-next.b2fd8db8"
-  resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.0.0-next.b2fd8db8.tgz#e411264d5e16ffc1b5b27149451be99ed24b43f1"
+react-error-overlay@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-4.0.0.tgz#d198408a85b4070937a98667f500c832f86bd5d4"
 
 read-chunk@^2.1.0:
   version "2.1.0"
